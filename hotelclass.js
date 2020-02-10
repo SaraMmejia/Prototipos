@@ -17,3 +17,5 @@ const r1 = new Room(101)
 console.log(r1.number());
 console.log(r1.available());
 console.log(r1.guests());
+
+

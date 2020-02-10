@@ -37,3 +37,5 @@ console.log(p2.bmi());
 
 console.log(p1.greet(p2));
 console.log(p2.greet(p1));
+
+module export = Person 

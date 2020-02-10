@@ -56,3 +56,4 @@ class Hotel{
 };
 
 module.exports = {Room, Hotel};
+
